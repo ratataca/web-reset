@@ -1,0 +1,61 @@
+*{
+    /*스타일 초기화*/
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body{
+    /*폰트 초기화*/
+    font-family: "DM Sans", sans-serif;
+}
+
+/* 고정 크기 width Grid */
+@media screen and (min-width: 1200px){
+    .container{
+        max-width: 960px; !important;
+    }
+}
+
+/* 스타일 초기화 */
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+button, input, textarea{
+    /*폰트 안먹는거 바꾸기*/
+    font-family: "DM Sans", sans-serif;
+    font-size: 16px;
+}
+
+.button:focus, button:active,
+.input:focus, input:active,
+.textarea:focus, textarea:active{
+    box-shadow: none;
+    outline: none;
+}
+
+ul, ol, li{
+    list-style: none;
+    padding-left: 0;
+    margin-left: 0;
+}
+
+p{
+    font-size: 16px;
+    line-height: 24px;
+    color: #2d292d;
+    letter-spacing: -0.01em;
+}
+
+@media screen and (min-width: 768px){
+    /*초기화*/
+    p{
+        font-size: 22px;
+        line-height: 30px;
+        color: #2d292d;
+        letter-spacing: -0.01em;
+    }
+}
+
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21a56b0d-90bd-4712-8df2-c14ac793e68e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1keIPSXLRBYHFjy3Jlb1419dcmB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ resource/img" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ragyw\WebstormProjects\mobile_web_programming\src\ resource\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21a56b0d-90bd-4712-8df2-c14ac793e68e" name="Default Changelist" comment="" />
+      <created>1606054605397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606054605397</updated>
+      <workItem from="1606054606460" duration="4438000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="270" y="686" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606054948255">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state x="270" y="686" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1080.1880/-1920.279.1920.1040/-3000.17.1080.1880@0.0.1080.1880" timestamp="1606054948255" />
+    <state x="203" y="435" width="672" height="678" key="search.everywhere.popup" timestamp="1606058534975">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state x="203" y="435" width="672" height="678" key="search.everywhere.popup/0.0.1080.1880/-1920.279.1920.1040/-3000.17.1080.1880@0.0.1080.1880" timestamp="1606058534975" />
+  </component>
+</project>
