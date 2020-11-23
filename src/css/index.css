@@ -7,6 +7,14 @@
 body{
     /*폰트 초기화*/
     font-family: "DM Sans", sans-serif;
+    /* 배경화면 지정 */
+    height: 200vh;
+    /*background-image: url("../ resource/img/BACKGROUND_IMG.jpg");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: cover;*/
+    /*background-attachment: fixed;*/
+
+    /*color:white;*/
 }
 
 /* 고정 크기 width Grid */
@@ -46,6 +54,38 @@ p{
     line-height: 24px;
     color: #2d292d;
     letter-spacing: -0.01em;
+}
+
+
+/* 글러벌 버튼 */
+.fill-button{
+    /*내부 text를 중앙 정렬하기 위해서*/
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+
+
+    width: 140px;
+    height: 48px;
+    font-size: 15px;
+    line-height: 1.6;
+    letter-spacing: -0.05em;
+    font-weight: 700;
+    color:#fff;
+    background-color: #3040c4;
+
+    border-radius: 2px;
+    transition: opacity 300ms ease-in-out;
+}
+
+.fill-button.inverted{
+    background-color: #fff;
+    color: #3040c4;
+}
+
+.fill-button:hover{
+    /*background-color: red;*/
+    opacity: 0.6;
 }
 
 @media screen and (min-width: 768px){
