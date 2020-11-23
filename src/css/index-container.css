@@ -1,0 +1,118 @@
+.section{
+    padding: 80px 0;
+}
+
+
+.section-category{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: -0.01em;
+    display: block;
+    margin-bottom: 8px;
+
+}
+
+.section-title{
+    font-size: 34px;
+    line-height: 1.05887;
+    letter-spacing: -0.03em;
+    color: #2b292d;
+    margin-bottom: 24px;
+}
+
+@media screen and (min-width: 768px){
+    .section-category{
+        font-size: 22px;
+        line-height: 1.058;
+        margin-bottom: 16px;
+
+    }
+    .section-title{
+        font-size: 56px;
+        line-height: 1;
+        margin-bottom: 32px;
+    }
+
+    .program {
+        text-align: center;
+    }
+
+    .section{
+        padding-bottom: 96px;
+    }
+}
+.section-desc{
+
+}
+
+.program .row:first-child{
+    margin-bottom: 32px;
+}
+
+
+.program .section-category{
+    color: #009b4d;
+}
+
+.program-card img{
+    display: block;
+    width: auto;
+    height: 195px;
+    margin: 0 auto 16px;
+
+}
+
+.program-card strong{
+    font-size: 18px;
+    line-height: 1.3333333;
+    letter-spacing: -0.02em;
+    transition: color 300ms ease-in-out;
+}
+
+.program-card{
+    text-align: center;
+    display: block;
+    padding: 24px 0 32px;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0px 4px 6px rgba(0,0,0,0.05),
+    0px 1px 3px rgba(0,0,0,0.01),
+    inset 0px 1px 0px rgba(2555, 255, 255, 0.1);
+
+    transition: background-color 300ms ease-in-out,
+    box-shadow 500ms ease-in-out;
+}
+
+.program-card:hover{
+    background-color: #3141c5;
+    box-shadow: 0px 11px 55px rgba(0,0,0,0.07),
+    0px 13px 18px rgba(0,0,0,0.15);
+}
+.program-card:hover strong{
+    color: #fff;
+}
+
+.program .col-md-4{
+    margin-bottom: 20px;
+}
+
+.program .col-md-4:last-child{
+    margin-bottom: 0;
+}
+
+@media screen and (min-width: 768px){
+
+    .program-card strong{
+        font-size: 20px;
+        line-height: 1.2;
+    }
+
+    .program-card img{
+        margin-bottom: 24px;
+    }
+
+    .program .row:first-child{
+        margin-bottom: 72px;
+    }
+
+}
